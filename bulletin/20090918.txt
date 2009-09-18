@@ -1,0 +1,30 @@
+20090918 - smrshnomic bulletin #1 - It Starts
+
+Welcome to smrshnomic, you have been drafted as a Voter in this engaging[1] 
+and highly successful[2] game!
+
+As a Voter, you will have the opportunity to both vote on and propose changes 
+to the current rules.
+ (always available at http://github.com/dracoling/smrshnomic )
+
+The goal of the game is to win the game by any means possible, and the rules 
+of the game are the way to win!
+
+To begin the game I will submit the following proposal, beginning today I will 
+accept proposals. Each proposal will be distributed to all players in the 
+bulletin following its reception. All rules accepted by previous votes will be 
+enacted at the time of the next bulletin (the rules will be updated at most 
+once per day).
+
+Please submit your votes on the following proposal and any other proposals to 
+me asap.
+
+Proposal #301 by dracoling: 
+I propose that we edit rule #206 to contain the following text:
+  Each Voter has exactly one vote. The Speaker has exactly 1.5 votes.
+-
+
+* [1]: I hope you will play, and therefore be engaged.
+* [2]: Only you can prevent forest fires... and make this successful... so do 
+it. (Or I set the bear on fire)
+

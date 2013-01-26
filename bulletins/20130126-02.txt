@@ -1,0 +1,62 @@
+Bulletin 20130126-02: Death by a thousand papercuts
+==================================
+Hello Voters,
+
+We've had an astoundingly busy first 16 hours. This is honestly far
+busier than I expected to be this soon, which is AWESOME.
+
+It got a little confusing, in less than a day we had 16 proposals
+and our first Call for Judgement. I'm going to try to summarize what
+the current state of the game is, but each player is reminded that
+it's up to them to keep up with developments in the game. This is
+provided only as a convenience.
+
+The current official rules have been published to 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+Call for Judgement #001 was initiated by Speaker dracoling and 
+Judgement was rendered by Will. The issue was duplicated rule numbers
+caused by the formats of Proposals #303 and #307 which were withdrawn
+as a result of the Judgement. The proposals were split in parts and 
+re-submitted in valid form as Proposals #310-316.
+
+The following Proposals are open for voting:
+* #301 - Colin - Transmute Rule 210: Rule effect timing
+* #302 - Colin - Amend Rule 211: Points distribution 
+* #304 - the nameless one - Create Rule 304: Vote privacy and penalties
+* #305 - Colin - Create Rule 305: Vote privacy (split options)
+* #306 - Colin - Amend Rule 218: Speaker's duties
+* #308 - Colin - Transmute Rule 109: Rule proposal numbering
+* #309 - Colin - Amend Rule 207: Voting
+* #310 - Colin - New Rule 310: Sub-proposals
+* #311 - Colin - New Rule 311: Proposal withdrawal
+* #312 - Colin - New Rule 312: Valid proposal content
+* #313 - Colin - New Rule 313: Proposal amendment
+* #314 - Colin - New Rule 314: Sponsor vote enforcement
+* #315 - Colin - Amend Rule 214: Judge selection
+* #316 - Colin - Amend Rule 216: Legal judgements
+
+The following Proposals have been withdrawn:
+* #303 - Colin - due to CfJ #001
+* #307 - Colin - due to CfJ #001
+
+Proposals of special note:
+* Proposal #305 requires a vote of "A", "B", or "NO"
+* Proposal #309 could change the voting period.
+
+Current Players: 
+* dracoling [Speaker]
+* Colin 
+* the nameless one
+* James
+* Will
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

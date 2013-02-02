@@ -104,3 +104,8 @@ Mutable rules
 * '219.' If a player believes that the rules are such that further play is impossible, or that the legality of a move cannot be determined with finality, or that a move appears equally legal and illegal, then the player may invoke judgement on a statement to that effect. If the statement is judged TRUE, then the player who invoked judgement shall be declared the winner of that game, and the game ends, with no provision for starting another game.
 
      This rule takes precedence over every other rule determining the winner of the game.
+
+* '304.' In order for a vote to be legally casted via email, it must be sent directly to the Speaker, without anyone else visibly copied or addressed on that email. Attaching a BCC to that email is illegal unless the BCC is directly acknowledged in the body of the email (acknowledging the recipient is not required, merely the fact that there is a BCC). Any player found to have violated this rule is immediately disqualified from the game and may be forbidden to return to future games at the discretion of the current Speaker.
+
+* '305.' All votes cast shall be anonymous, and may not be revealed, except at the discretion of the Voter.
+

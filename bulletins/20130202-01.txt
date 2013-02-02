@@ -1,0 +1,123 @@
+Bulletin 20130202-01: What if there is no tomorrow? There wasn't one today.
+=================================================== 
+THE RULES HAVE CHANGED. PLEASE BE SURE TO READ THE NEW RULES.
+
+And now what we've all been waiting for... the end of our FIRST vote
+round. Please remember there are 3 more proposals ending tonight, be
+sure to vote on them before the window closes.
+
+Due to the passage of Rule #305, the following vote results have been
+anonymized.
+
+The following proposals have been decided.
+* #301 - Colin - Transmute Rule 210: Rule effect timing
+  Voting Yes: 1
+  Voting No: 2
+  Abstaining: 2
+  Result: FAILURE
+  
+* #302 - Colin - Amend Rule 211: Points distribution 
+  Voting Yes: 2
+  Voting No: 2
+  Abstaining: 1
+  Result: FAILURE
+  
+* #304 - the nameless one - Create Rule 304: Vote privacy and penalties
+  Voting Yes: 2
+  Voting No: 1
+  Abstaining: 2
+  Result: SUCCESS
+  Random point value: 3
+
+* #305 - Colin - Create Rule 305: Vote privacy (split options)
+  Voting A: 3
+  Voting B: 0
+  Voting No: 1
+  Abstaining: James
+  Result: SUCCESS (A)
+  Random point value: 7
+  
+* #306 - Colin - Amend Rule 218: Speaker's duties
+  Voting Yes: 2
+  Voting No: 2
+  Abstaining: 1
+  Result: FAILURE
+
+* #308 - Colin - Transmute Rule 109: Rule proposal numbering
+  Voting Yes: 0
+  Voting No: 2
+  Abstaining: 3
+  Result: FAILURE
+
+* #311 - Colin - New Rule 311: Proposal withdrawal
+  Voting Yes: 2
+  Voting No: 2
+  Abstaining: 1
+  Result: FAILURE
+
+* #312 - Colin - New Rule 312: Valid proposal content
+  Voting Yes: 1
+  Voting No: 3
+  Abstaining: 1
+  Result: FAILURE
+  
+* #313 - Colin - New Rule 313: Proposal amendment
+  Voting Yes: 1
+  Voting No: 3
+  Abstaining: 1
+  Result: FAILURE
+
+* #314 - Colin - New Rule 314: Sponsor vote enforcement
+  Voting Yes: 1
+  Voting No: 3
+  Abstaining: 1
+  Result: FAILURE
+
+* #315 - Colin - Amend Rule 214: Judge selection
+  Voting Yes: 2
+  Voting No: 2
+  Abstaining: 1
+  Result: FAILURE
+
+* #316 - Colin - Amend Rule 216: Legal judgements
+  Voting Yes: 2
+  Voting No: 2
+  Abstaining: 1
+  Result: FAILURE
+
+New Point Totals:
+ * Colin: -83
+ * the nameless one: 13
+ 
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+The following Proposals are open for voting until 2013-02-03 0:00:00:
+* #317 - Will - New Rule 317: Official time zone
+* #318 - Gadget - New Rule 318: Additional requirement for proposals
+* #319 - Will - New Rule 319: Official date format
+
+The following Proposals are open for voting until 2013-02-06 0:00:00:
+* #320 - the nameless one - Amend Rule 203: Winning a new Speaker
+
+Proposals of special note:
+* Proposal #319 requires an official date format, but doesn't define 
+  one to be used 
+
+Current Players: 
+* dracoling [Speaker]
+* Colin 
+* the nameless one
+* James
+* Will
+* Gadget
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

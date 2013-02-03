@@ -5,6 +5,7 @@ Active Players and Points:
  - James: 0
  - Will: 0
  - Gadget: 0
+ - Renning: 0
 
 Inactive Players:
  

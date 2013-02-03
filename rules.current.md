@@ -109,3 +109,15 @@ Mutable rules
 
 * '305.' All votes cast shall be anonymous, and may not be revealed, except at the discretion of the Voter.
 
+* '318.' Whenever a proposal is submitted, the submitter must also post the 
+most interesting thing that has happened to them in the 24 hours 
+prior to the submission of the proposal, else the submitter must 
+sacrifice 10 points.
+
+  What is considered "the most interesting thing" is at the discretion 
+of the submitter.
+
+  If multiple proposals are made within any 24 hour period, then a 
+"most interesting thing" may be reused, providing it still happened 
+within the 24 hours prior to the submission of the new proposal(s).
+

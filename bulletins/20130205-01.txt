@@ -1,0 +1,38 @@
+Bulletin 20130205-01: Not dead yet
+=================================================== 
+I've been busy dealing with life, the list has been quiet. 
+Don't forget to vote on #320 before tonight!
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+The following Proposals are open for voting until 2013-02-06 0:00:00:
+* #320 - the nameless one - Amend Rule 203: Winning a new Speaker
+
+The following Proposals are open for voting until 2013-02-09 0:00:00:
+* #321 - Colin - Amend Rule 203: Winning a new Speaker
+* #322 - Colin - New Rule 322: Valid proposal content
+* #323 - Colin - New Rule 323: Sponsor vote enforcement
+* #324 - Colin - New Rule 324: Point transferral
+* #325 - Colin - Amend Rule 211: Points distribution 
+* #326 - Colin - New Rule 326: Points for Abstainers
+* #327 - Colin - New Rule 327: Additional requirement for proposals
+
+Current Players: 
+* dracoling [Speaker]
+* Colin 
+* the nameless one
+* James
+* Will
+* Gadget
+* Renning
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

@@ -1,0 +1,88 @@
+Bulletin 20130209-01: Still crazy after all these years
+=================================================== 
+Important changes to the game: 
+Proposal content and sections have been formalized (Rule #321).
+Abstaining now grants points to the author of a proposal whether that
+proposal passes or not (Rule #326). Proposals must include commentary
+on why the proposal will enhance the game (Rule #327).
+
+Please note that the first application of Rule #326 was for the 
+counting of votes in Rule #327.
+
+The following proposals have been decided.
+* #321 - Colin - New Rule 321: Valid proposal coxntent
+  Voting Yes: 3
+  Voting No: 2
+  Abstaining: 1
+  Result: SUCCESS
+  Random point value: 8
+
+* #322 - Colin - New Rule 322: Sponsor vote enforcement
+  Voting Yes: 2
+  Voting No: 3
+  Abstaining: 1
+  Result: FAILURE
+
+* #323 - Colin - Transmute Rule 109: Rule proposal numbering
+  Voting Yes: 1
+  Voting No: 4
+  Abstaining: 1
+  Result: FAILURE
+
+* #324 - Colin - New Rule 324: Point transferral
+  Voting Yes: 2
+  Voting No: 3
+  Abstaining: 1
+  Result: FAILURE
+
+* #325 - Colin - Amend Rule 211: Points distribution 
+  Voting Yes: 2
+  Voting No: 3
+  Abstaining: 1
+  Result: FAILURE
+  
+* #326 - Colin - New Rule 326: Points for Abstainers
+  Voting Yes: 3
+  Voting No: 2
+  Abstaining: 1
+  Result: SUCCESS
+  Random point value: 4
+  
+* #327 - Colin - New Rule 327: Additional requirement for proposals
+  Voting Yes: 3
+  Voting No: 2
+  Abstaining: 1
+  Result: SUCCESS
+  Random point value: 6
+
+Changes in Score:
+   * Colin: -9
+   * the nameless one: +10
+   * James: +20
+   * Renning: +30
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+The following Proposals are open for voting until 2013-02-13 0:00:00
+* #328 - Will - New Rule 328: Limit on concurrent proposals
+* #329 - Will - New Rule 329: Official Time zone
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -82
+* the nameless one: 13
+* James: 20
+* Will: -20
+* Gadget: 4
+* Renning: 30
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

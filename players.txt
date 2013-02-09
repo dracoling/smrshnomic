@@ -1,11 +1,11 @@
 Active Players and Points:
  - dracoling [Speaker]: 0
- - Colin: -73
- - the nameless one: 3
- - James: 0
+ - Colin: -82
+ - the nameless one: 13
+ - James: 20
  - Will: -20
  - Gadget: 4
- - Renning: 0
+ - Renning: 30
 
 Inactive Players:
  

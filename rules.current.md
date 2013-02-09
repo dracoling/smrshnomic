@@ -121,3 +121,34 @@ of the submitter.
 "most interesting thing" may be reused, providing it still happened 
 within the 24 hours prior to the submission of the new proposal(s).
 
+* '321.' A proposal may contain any number of each of the following sections:
+
+  * a rule creation section  
+    This type of section defines a new rule
+
+  * a rule amendment section  
+    This type of section amends an existing, mutable rule (which must
+    be mutable when the proposal is submitted)
+
+  * a rule transmutation section  
+    This type of section makes an existing immutable rule mutable, or 
+    an existing mutable rule immutable
+
+  * a score change section  
+    This type of section changes the score of a named player (or 
+    players) to a specific value or by a specific amount when it is 
+    passed
+
+  * a sub-proposal containing any section legal in a proposal except 
+    for sub-proposals  
+    This type of section is only useful in multiples, and defines 
+    multiple competing alternatives for a subject
+
+  * a rule renumbering section  
+    This type of section renumbers an existing rule.
+
+* '326.' When votes are counted, the submitter of a proposal shall gain 3 
+    points for each voter who abstained from voting.
+
+* '327.' When submitting a proposal, the submitter must include commentary
+    describing why they feel the proposal will enhance the game.

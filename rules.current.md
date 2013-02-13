@@ -152,3 +152,6 @@ within the 24 hours prior to the submission of the new proposal(s).
 
 * '327.' When submitting a proposal, the submitter must include commentary
     describing why they feel the proposal will enhance the game.
+
+* '329.' In all formal communication between voters/speaker all documents shall
+    use UTC time.

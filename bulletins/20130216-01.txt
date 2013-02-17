@@ -1,0 +1,38 @@
+Bulletin 20130216-01: I've got a brand new pair of rollerskates
+=================================================== 
+Just triple-checked the votes and all my email.
+This. Just. Happened.
+
+The following proposals have been decided.
+* #330 - Colin - Transmute Rule 109: Rule proposal numbering
+  Voting Yes: 1
+  Voting No: 0
+  Abstaining: 5
+  Result: FAILURE DUE TO LACK OF QUORUM (1.2 votes)
+
+Changes in Score:
+   * Colin: +5
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+There are no open proposals at this time.
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -67
+* the nameless one: 23
+* James: 20
+* Will: -12
+* Gadget: 4
+* Renning: 30
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

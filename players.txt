@@ -6,6 +6,7 @@ Active Players and Points:
  - Will: -12
  - Gadget: 4
  - Renning: 30
+ - sunzun: 0
 
 Inactive Players:
  

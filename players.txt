@@ -5,7 +5,7 @@ Active Players and Points:
  - James: 20
  - Will: -12
  - Gadget: 4
- - Renning: 38
+ - Renning: 66
  - sunzun: 0
 
 Inactive Players:

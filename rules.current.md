@@ -155,3 +155,20 @@ within the 24 hours prior to the submission of the new proposal(s).
 
 * '329.' In all formal communication between voters/speaker all documents shall
     use UTC time.
+
+* '334.' The voting period shall be granted a reduction to three days
+    beginning at the time the Speaker distributes the proposal to all
+    players if the proposal submitter provides to the players, at the
+    time of proposal submission, an appropriate token for voting
+    period reduction.
+    
+    A token for voting period reduction is found to be appropriate if
+    less than a majority of players object to the token's
+    appropriateness.
+    
+    A token for voting period reduction found to be inappropriate
+    will result in the submitter losing 10 points and having their
+    voting period reduction revoked.
+    
+    The token for voting period reduction must be an image of tits.
+

@@ -1,0 +1,48 @@
+Bulletin 20130303-01: It's the end of the world as we know it...
+=================================================== 
+My apologies about the timezone issues in the last dispatch
+those responsible for the error have been sacked.
+
+The rules have changed!
+
+The following proposals have been decided.
+* #334 - Renning - New Rule #334: Speedy voting
+  Voting Yes: 2
+  Voting No: 0
+  Abstaining: 5
+  Result: SUCCESS
+  Random point value: 5
+
+* #335 - Renning - Delete Rule #204
+  Voting Yes: 1
+  Voting No: 0
+  Abstaining: 6
+  Result: FAILURE
+
+Changes in Score:
+   * Renning: +28
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+There are no proposals open for voting at this time.
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -54
+* the nameless one: 23
+* James: 20
+* Will: -12
+* Gadget: 4
+* Renning: 66
+* sunzun: 0
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

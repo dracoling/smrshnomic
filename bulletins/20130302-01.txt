@@ -1,0 +1,48 @@
+Bulletin 20130302-01: Little bit louder, little bit worse.
+=================================================== 
+Please note that 2 more proposals close in the next 24 hours, 
+I need your votes ASAP.
+
+
+The following proposals have been decided.
+* #332 - Renning - New Rule #332: Vote flipping
+  Voting Yes: 1
+  Voting No: 0
+  Abstaining: 6
+  Result: FAILURE
+
+* #333 - Colin - Transmute Rule 109: Rule proposal numbering
+  Voting Yes: 1
+  Voting No: 0
+  Abstaining: 6
+  Result: FAILURE
+
+Changes in Score:
+   * Renning: +8
+   * Colin: +8
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+The following Proposals are open for voting until 2013-03-03 0:00:00
+* #334 - Renning - New Rule #334: Speedy voting
+* #335 - Renning - Delete Rule #204
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -54
+* the nameless one: 23
+* James: 20
+* Will: -12
+* Gadget: 4
+* Renning: 38
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

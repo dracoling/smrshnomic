@@ -1,0 +1,39 @@
+Bulletin 20130306-02: Lend me your ears
+=================================================== 
+IMPORTANT THINGS TO KNOW:
+
+1. Proposal #341 is in reduced voting period.
+2. All votes are recorded in UTC (Rule #329)
+3. Voting matters! 3 points are awarded for each abstaining voter. 
+   (Rule #326)
+
+Thanks for voting :)
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+The following Proposals are open for voting until 2013-03-09 0:00:00:
+* #341 - renning - Transmute Rule #103: Definition of Player
+
+The following Proposals are open for voting until 2013-03-14 0:00:00:
+* #340 - dracoling - New Rule #340: Slush Fund
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -54
+* the nameless one: 43
+* James: 20
+* Will: 18
+* Gadget: 4
+* Renning: 94
+* sunzun: 0
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

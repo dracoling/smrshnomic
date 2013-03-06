@@ -1,0 +1,64 @@
+Bulletin 20130306-01: The Ultimate Showdown of Ultimate Destiny
+=================================================== 
+Yay! I can do things! I had this release prepared before voting closed
+and it looked very different. It's amazing what a vote can do ;)
+
+The rules have changed!
+
+The following proposals have been decided:
+* #336 - Renning - Transmute Rule #109: Rule proposal numbering
+  Voting Yes: 4
+  Voting No: 1
+  Abstaining: 2
+  Result: FAILURE - Transmutation must be unanimous
+
+* #337 - Renning - Delete Rule #204
+  Voting Yes: 3
+  Voting No: 2
+  Abstaining: 2
+  Result: SUCCESS
+  Random point value: 9
+
+* #338 - Renning - Amend Rule #201: Quorum
+  Voting Yes: 3
+  Voting No: 2
+  Abstaining: 2
+  Result: SUCCESS
+  Random point value: 4
+
+* #339 - Renning - Amend Rule #206: Voting
+  Voting Yes: 4
+  Voting No: 1
+  Abstaining: 2
+  Result: SUCCESS
+  Random point value: 1
+
+Changes in Score:
+   * the nameless one: +20
+   * Renning: +28
+   * Will: +30
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+There are no proposals open for voting at this time.
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -54
+* the nameless one: 43
+* James: 20
+* Will: 18
+* Gadget: 4
+* Renning: 94
+* sunzun: 0
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

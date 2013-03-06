@@ -40,8 +40,6 @@ Immutable Rules
 Mutable rules
 ===============
 
-* '201.' Quorum for a proposed rule change is defined to be 20% of Voters at the beginning of the prescribed voting period for that proposal
-
 * '202.' All players begin with 0 points. Points may not be gained, lost, or traded except as explicitly stated in the rules.
 
 * '203.' The winner is the first Voter to achieve 100 (positive) points. If more than one Voter achieves this condition simultaneously, all such Voters win.
@@ -53,11 +51,7 @@ Mutable rules
      * All players' scores are reset to 0.
      * A new game is begun. All rules and proposed rule changes retain the status they had at the end of the old game.
 
-* '204.' A proposal shall be made by submitting it to the Speaker. Only Voters may make proposals. As soon as possible after receiving a proposal, the Speaker shall assign the proposal a number and distribute the proposal along with its number to all players
-
 * '205.' The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players.
-
-* '206.' Each Voter has exactly one vote. The Speaker may not vote.
 
 * '207.' Voters may vote either for or against any proposal within its prescribed voting period. In order to be legally cast, the vote must be received by the Speaker by the end of the prescribed voting period. The Speaker may not reveal any votes until the end of the prescribed voting period. Any Voter who does not legally vote within the prescribed voting period shall be deemed to have abstained.
 
@@ -172,3 +166,6 @@ within the 24 hours prior to the submission of the new proposal(s).
     
     The token for voting period reduction must be an image of tits.
 
+* '338.' Quorum for a proposed rule change is defined to be one Voter at the beginning of the prescribed voting period for that proposal
+
+* '339.' Each Voter has exactly one vote. The Speaker may have exactly one vote.

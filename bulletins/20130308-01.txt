@@ -1,0 +1,37 @@
+Bulletin 20130308-01: So close
+=================================================== 
+The following proposals have been decided:
+* #341 - renning - Transmute Rule #103: Definition of Player
+  Voting Yes: 3
+  Voting No: 1
+  Abstaining: 4
+  Result: FAILURE - Transmutation must be unanimous
+
+Changes in Score:
+   * Renning: +2
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+The following Proposals are open for voting until 2013-03-14 0:00:00:
+* #340 - dracoling - New Rule #340: Slush Fund
+
+Current Players and Scores: 
+* dracoling [Speaker]: 0
+* Colin: -54
+* the nameless one: 43
+* James: 20
+* Will: 18
+* Gadget: 4
+* Renning: 96
+* sunzun: 0
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

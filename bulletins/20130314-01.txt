@@ -1,0 +1,47 @@
+Bulletin 20130314-01: Something happened!
+=================================================== 
+The rules have changed!
+
+The following proposals have been decided.
+* #340 - dracoling - New Rule #340: Slush Fund Actions
+  Voting Yes: 4
+  Voting No: 0
+  Abstaining: 4
+  Result: SUCCESS
+  Random point value: 4
+
+* #342 - Colin - Points modification
+  Voting Yes: 1
+  Voting No: 1
+  Abstaining: 6
+  Result: FAILURE
+
+
+Changes in Score:
+   * dracoling: +16
+   * Colin: +8
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+There are no proposals open for voting at this time.
+
+Current Players and Scores: 
+* dracoling [Speaker]: 16
+* Colin: -46
+* the nameless one: 43
+* James: 20
+* Will: 18
+* Gadget: 4
+* Renning: 96
+* sunzun: 0
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

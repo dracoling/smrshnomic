@@ -169,3 +169,17 @@ within the 24 hours prior to the submission of the new proposal(s).
 * '338.' Quorum for a proposed rule change is defined to be one Voter at the beginning of the prescribed voting period for that proposal
 
 * '339.' Each Voter has exactly one vote. The Speaker may have exactly one vote.
+
+* '340.' The Speaker may propose a 'Slush Fund' action at any time e 
+    would be able to submit a legal proposal. Once announced, all 
+    players have 48 hours to attempt to "Abort" this action before it 
+    occurs. If a simple majority of active players choose to abort 
+    the action it does not occur and my not be proposed again until 
+    after the prescribed voting period for a proposal has elapsed at 
+    least once.
+
+    When the Slush Fund action occurs, each player's points are 
+    divided by 2. One half is kept by the player, the other half is 
+    added to the Slush Fund. This Slush Fund is then divided by the 
+    number of active players and each is awarded an equal share of 
+    the points in the Slush Fund.

@@ -13,12 +13,6 @@ Immutable Rules
   immutable or mutable regardless of their numbers, and rules in the
   Initial Set may be transmuted regardless of their numbers.
 
-* '103.' At any time, each player shall be either a Voter or the
-  Speaker; no player may simultaneously be a Voter and a Speaker. At
-  any time there shall be exactly one Speaker. The term "player" in
-  the rules shall specifically include both the Voters and the
-  Speaker.
-
 * '104.' The Speaker for the first game shall be __dracoling__.
 
 * '105.' A rule change is any of the following: (1) the enactment,
@@ -43,15 +37,6 @@ Immutable Rules
   the completion of the vote that adopted it, even if its wording
   explicitly states otherwise. No rule change may have retroactive
   application.
-
-* '109.' The Speaker shall give each proposed rule change a number
-  for reference. The numbers shall begin with 301, and each rule
-  change proposed in the proper way shall receive the next successive
-  integer, whether or not the proposal is adopted.
-
-  If a rule is repealed and reenacted, it receives the number of
-  the proposal to reenact it. If a rule is amended or transmuted,
-  it receives the number of the proposal to amend or transmute it.
 
 * '110.' Rule changes that transmute immutable rules into mutable
   rules may be adopted if and only if the vote is unanimous among
@@ -329,3 +314,24 @@ Mutable rules
   the Slush Fund. This Slush Fund is then divided by the number of
   active players and each is awarded an equal share of the points in
   the Slush Fund.
+
+* '343.' At any time, each player shall be either a Voter or the
+  Speaker; no player may simultaneously be a Voter and a Speaker. At
+  any time there shall be exactly one Speaker. The term "player" in
+  the rules shall specifically include both the Voters and the
+  Speaker.
+
+* '344.' The Speaker shall give each proposed rule change a number
+  for reference. The numbers shall begin with 301, and each rule
+  change proposed in the proper way shall receive the next successive
+  integer, whether or not the proposal is adopted.
+
+  If a rule is repealed and reenacted, it receives the number of
+  the proposal to reenact it. If a rule is amended or transmuted,
+  it receives the number of the proposal to amend or transmute it.
+
+* '347.' If a player says "Right right?" All player must respond
+  "Right!".
+  
+  Those that respond get 1 point. Those that do not get -1 point.
+  You have 24hrs to respond.

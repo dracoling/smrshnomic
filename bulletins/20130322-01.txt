@@ -1,0 +1,73 @@
+Bulletin 20130322-01: [witty headline]
+===================================================
+
+While nobody was looking (apparently) the Slush Fund action went off
+unopposed. The point redistribution was sent to the list where it
+promptly died from lack of love and attention.
+
+Moving right along...
+The rules have changed!
+
+The following proposals have been decided.
+* #343 - Renning - Transmute Rule #103
+  Voting Yes: 5
+  Voting No: 0
+  Abstaining: 1
+  Result: SUCCESS -- Becomes #343
+  Random point value: 3
+
+* #344 - Renning - Transmute Rule #109
+  Voting Yes: 5
+  Voting No: 0
+  Abstaining: 1
+  Result: SUCCESS -- Becomes #344
+  Random point value: 3
+
+* #345 - Will - New Rule #345: Points for selfies
+  Voting Yes: 1
+  Voting No: 2
+  Abstaining: 3
+  Result: FAILURE
+
+* #346 - Gadget - Amend #214: Judge selection
+  Voting Yes: 2
+  Voting No: 2
+  Abstaining: 2
+  Result: FAILURE
+
+* #347 - Will - New Rule #347: Right right? Right!
+  Voting Yes: 3
+  Voting No: 1
+  Abstaining: 2
+  Result: SUCCESS
+  Random point value: 1
+
+
+Changes in Score:
+   * dracoling: +10
+   * Gadget: -4
+   * Renning: +12
+   * Will: +6
+
+The current official rules are published at 
+https://github.com/dracoling/smrshnomic/blob/master/rules.current.md
+
+There are no proposals open for voting at this time.
+
+Current Players and Scores: 
+- dracoling [Speaker]: 26
+- Colin: -15
+- Will: 23
+- Gadget: 6
+- Renning: 68
+- sunzun: 8
+
+The players list as well as all proposals and judgements are 
+available on the GitHub website for this Nomic. As the game evolves 
+I will try to keep this information up to date, but the official 
+record is the list and it's archive.
+
+GitHub: https://github.com/dracoling/smrshnomic/
+List Archives: http://lists.smrsh.net/pipermail/nomic/
+
+~ Speaker dracoling

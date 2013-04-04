@@ -1,0 +1,53 @@
+Bulletin 20130404-01: The end.
+=========================
+
+At 2013-04-04 0:00 UTC, the first game ended.
+
+Proposal #348 passes with 2 YES votes, 0 NO votes, and 4 abstentions.
+Proposal #349 passes with 2 YES votes, 0 NO votes, and 4 abstentions.
+Proposal #350 passes with 2 YES votes, 0 NO votes, and 4 abstentions.
+
+In order of actions, the following occurs.
+
+1. ALL PLAYERS POINTS BECOME 99 [Prop #348]
+2. RULE #304 REPEALED [Prop #349]
+3. RULE #321 AMENDED (becomes Rule #350) [Prop #350]
+4. Colin gets +10 points for proposal #348 passing [Rule #211]
+5. Colin gets +12 points for abstentions on proposal #348 [Rule #326]
+6. dracoling gets +2 points for proposal #349 passing [Rule #211]
+7. dracoling gets +12 points for abstentions on proposal #349 
+   [Rule #326]
+8. Colin gets +7 points for proposal #350 passing [Rule #211]
+9. Colin gets +12 points for abstentions on proposal #350 [Rule #326]
+
+Scores: 
+  - dracoling [Speaker]: 113
+  - Colin: 140
+  - Will: 99
+  - Gadget: 99
+  - Renning: 99
+  - sunzun: 99
+
+10. Scores checked. Winner found: Colin. [Rule #203]. dracoling is
+    ineligible to win the game, as the Speaker is not a Voter 
+    [Rule #343]
+
+11. The points are reset to 0. 
+
+12. The old Speaker is now a Voter. The winning Voter becomes the new
+    Speaker.  
+
+13. A new game is begun. All Rules retain the status they had at the
+    end of the game.
+
+
+This will be my last Bulletin as Speaker.
+
+Congratulations Colin. I wish you luck in leading the game.
+
+Please let me know if you wish to take over maintenance of the email 
+list and/or github.
+
+It has been an honor to serve. I look forward to the next round!
+
+~ (former) Speaker dracoling

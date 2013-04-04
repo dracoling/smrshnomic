@@ -218,15 +218,6 @@ Mutable rules
   This rule takes precedence over every other rule determining the
   winner of the game.
 
-* '304.' In order for a vote to be legally casted via email, it must
-  be sent directly to the Speaker, without anyone else visibly copied
-  or addressed on that email. Attaching a BCC to that email is
-  illegal unless the BCC is directly acknowledged in the body of the
-  email (acknowledging the recipient is not required, merely the fact
-  that there is a BCC). Any player found to have violated this rule
-  is immediately disqualified from the game and may be forbidden to
-  return to future games at the discretion of the current Speaker.
-
 * '305.' All votes cast shall be anonymous, and may not be revealed,
   except at the discretion of the Voter.
 
@@ -241,33 +232,6 @@ Mutable rules
   If multiple proposals are made within any 24 hour period, then a
   "most interesting thing" may be reused, providing it still happened
   within the 24 hours prior to the submission of the new proposal(s).
-
-* '321.' A proposal may contain any number of each of the following
-  sections:
-
-  * a rule creation section  
-    This type of section defines a new rule
-
-  * a rule amendment section  
-    This type of section amends an existing, mutable rule (which must
-    be mutable when the proposal is submitted)
-
-  * a rule transmutation section  
-    This type of section makes an existing immutable rule mutable, or 
-    an existing mutable rule immutable
-
-  * a score change section  
-    This type of section changes the score of a named player (or 
-    players) to a specific value or by a specific amount when it is 
-    passed
-
-  * a sub-proposal containing any section legal in a proposal except 
-    for sub-proposals  
-    This type of section is only useful in multiples, and defines 
-    multiple competing alternatives for a subject
-
-  * a rule renumbering section  
-    This type of section renumbers an existing rule.
 
 * '326.' When votes are counted, the submitter of a proposal shall
   gain 3 points for each voter who abstained from voting.
@@ -335,3 +299,33 @@ Mutable rules
   
   Those that respond get 1 point. Those that do not get -1 point.
   You have 24hrs to respond.
+
+* '350.' A proposal may contain any number of each of the following
+  sections:
+
+  * a rule creation section  
+    This type of section defines a new rule
+
+  * a rule amendment section  
+    This type of section amends an existing, mutable rule (which must
+    be mutable when the proposal is submitted)
+
+  * a rule transmutation section  
+    This type of section makes an existing immutable rule mutable, or 
+    an existing mutable rule immutable
+
+  * a score change section  
+    This type of section changes the score of a named player (or 
+    players) to a specific value or by a specific amount when it is 
+    passed
+
+  * a sub-proposal containing any section legal in a proposal except 
+    for sub-proposals  
+    This type of section is only useful in multiples, and defines 
+    multiple competing alternatives for a subject
+
+  * a rule renumbering section  
+    This type of section renumbers an existing rule.
+
+  * A rule deletion section
+    This type of section deletes an existing, mutable rule.
